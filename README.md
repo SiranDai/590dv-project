@@ -4,8 +4,17 @@ Group member: Xiaoye Li, Siran Dai, Hiu To Li, Zeyu Pan.
 
 ## Component 1: Transportable Array Interactive
 
-#Code: Xiaoye Li and Zeyu Pan
+#Data management: Xiaoye Li and Zeyu Pan
 
+#Data cleaning: Zeyu Pan
+
+#Map code: Xiaoye Li and Zeyu Pan
+
+#Spectrogram: Xiaoye Li (with the help of Prof. Turk)
+
+#Connection: Xiaoye Li
+
+#Line Plot: Zeyu Pan
 
 
 
