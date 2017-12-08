@@ -8,6 +8,8 @@ Component 1: Transportable Array Interactive
 #Data management
 #Data cleaning
 
+
+
 Component 3: UFO database and supplemental data
 
 #Map code: Hio To Li
@@ -15,6 +17,8 @@ Component 3: UFO database and supplemental data
 #Plot with interval code: Siran Dai (with the help of Prof. Turk)
 
 #Connection: Siran Dai, Xiaoye Li (with the help of Prof. Turk and TA Jarai)
+
+
 
 Component 4: Infographic
 
