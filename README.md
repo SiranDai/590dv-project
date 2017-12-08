@@ -1,4 +1,4 @@
-# 590dv- final project
+# IS590DataViz - Final Project
 
 Group member: Xiaoye Li, Siran Dai, Hiu To Li, Zeyu Pan.
 
