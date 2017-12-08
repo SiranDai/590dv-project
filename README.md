@@ -2,7 +2,7 @@
 
 Group member: Xiaoye Li, Siran Dai, Hio To Li, Zeyu Pan.
 
-Component 1: Transportable Array Interactive
+## Component 1: Transportable Array Interactive
 
 #Code
 #Data management
@@ -10,7 +10,7 @@ Component 1: Transportable Array Interactive
 
 
 
-Component 3: UFO database and supplemental data
+## Component 3: UFO database and supplemental data
 
 #Map code: Hio To Li
 
@@ -20,7 +20,7 @@ Component 3: UFO database and supplemental data
 
 
 
-Component 4: Infographic
+## Component 4: Infographic
 
 #Data cleaning & management: Hio To Li, Zeyu Pan, Siran Dai
 
