@@ -1,6 +1,10 @@
 # IS590DataViz - Final Project
 
-Group member: Xiaoye Li, Siran Dai, Hiu To Li, Zeyu Pan.
+Group member:   
+Xiaoye Li  
+Siran Dai(siran2@illinois.edu)  
+Hiu To Li  
+Zeyu Pan
 
 ## Component 1: Transportable Array Interactive
 
