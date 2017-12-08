@@ -12,9 +12,10 @@ Group member: Xiaoye Li, Siran Dai, Hiu To Li, Zeyu Pan.
 
 #Spectrogram: Xiaoye Li (with the help of Prof. Turk)
 
+#Line Plot: Zeyu Pan
+
 #Connection: Xiaoye Li
 
-#Line Plot: Zeyu Pan
 
 
 
